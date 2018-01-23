@@ -46,6 +46,7 @@ a:hover { text-decoration: underline; }
 .content {
 	line-height: 1.7;
 	text-align: justify;
+	padding:10px
 }
 
 /* 控制某些内容在打印时的显示隐藏 */
@@ -552,7 +553,7 @@ a.button { display: inline-block; }
 		padding-right: 380px;
 	}
 	.project__thumb {
-		width: 320px;
+		width: 200px;
 		margin-right: -370px;
 	}
 }
