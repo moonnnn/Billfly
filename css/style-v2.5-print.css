@@ -250,6 +250,9 @@ a, a:visited {
 	color: #888;
 }
 .project .content { padding-right: 120px; }
+.dizhi a{
+	padding: 10px;
+}
 
 
 /* 页脚 */
